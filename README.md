@@ -8,10 +8,9 @@
 
 # run 
 
-'''
+```
 vagrant up 
-
-'''
+```
 
 ### based on:
  https://github.com/wardviaene/devops-box 
